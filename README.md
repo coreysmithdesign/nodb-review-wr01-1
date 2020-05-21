@@ -14,7 +14,7 @@
 ### Functionality
 - We want a header at the top of the page to display the name of our app
 - When the app loads, three images of grass will be loaded on the screen
-  - when the grass is clicked we will reveal a wold pokemon
+  - when the grass is clicked we will reveal a wild pokemon
 - Once we select a pokemon we will push that pokemon to our pokedex
 - The pokedex will show the new caught pokemon
 - The pokedex will show the name of the caught pokemon
